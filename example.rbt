@@ -1,0 +1,41 @@
+NEW RBT123 ( ) ;
+
+NEW RBT456 ( );
+
+int Aa = 5.7 ;
+
+int Bb = true ;
+
+int Cc = 4 ;
+
+SCAN ( Bb ) ;
+
+
+START ( RBT123 );
+
+RBT123 FORWARD ( Aa ) ;
+
+
+RBT123 && RBT456 = Bb
+
+
+
+WHILE Cc >= 7 ;
+
+ROBOT123 TURNLEFT ( Bb );
+
+IF ( ROBOT123 == ROBOT456 )
+
+RBT123 PICK ( RBT456 );
+
+ELSE RELEASE ;
+
+
+/*This is a test */
+
+
+
+
+
+
+
